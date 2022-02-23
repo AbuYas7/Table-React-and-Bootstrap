@@ -3,7 +3,7 @@ import Products from "./product";
 
 const App = () => {
   return (<>
- <table class="table">
+ <table className="table">
   <thead>
     <tr>
       <th scope="col" className="id">#</th>
