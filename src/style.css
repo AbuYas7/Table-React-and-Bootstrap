@@ -1,0 +1,26 @@
+.id{
+    font-size: 22px;
+    /* text-align: center; */
+    /* align-items: center; */
+    vertical-align: middle;
+}
+.name{
+    font-size: 22px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+.price{
+    font-size: 22px;
+    /* text-align: center; */
+    vertical-align: middle;
+}
+.left{
+    font-size: 22px;
+    text-align: center;
+    vertical-align: middle;
+}
+.image{
+    font-size: 22px;
+    text-align: center;
+}
